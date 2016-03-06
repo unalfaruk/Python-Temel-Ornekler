@@ -1,0 +1,2 @@
+# piton
+Piton Temel Kodlar
